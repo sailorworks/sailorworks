@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sailorworks/sailorworks/blob/main/assets/output/animation.gif" alt="Hi, I'm Sahil  👋 technical writing 🚀 I ❤️ open source ">
+  <img src="https://github.com/sailorworks/sailorworks/blob/main/assets/output/animation.gif" width="4000" height="400"alt="Hi, I'm Sahil  👋 technical writing 🚀 I ❤️ open source ">
 </p>
 <h3 align="center">sailing in the world of computer science</h3>
 
