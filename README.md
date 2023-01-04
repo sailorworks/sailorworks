@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/sailorworks/sailorworks/blob/main/assets/output/animation.gif" alt="Hi, I'm Sahil  👋 technical writing 🚀 I ❤️ open source ">
+</p>
 <h3 align="center">sailing in the world of computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailorworks&label=Profile%20views&color=0e75b6&style=flat" alt="sailorworks" /> </p>
