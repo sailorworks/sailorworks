@@ -3,9 +3,9 @@
 </p>
 <h3 align="center">sailing in the world of computer science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sailorworks&label=Profile%20views&color=0e75b6&style=flat" alt="sailorworks" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailorworks&label=Profile%20views&color=0e75b6&style=flat" alt="sailorworks" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sailorworks" target="blank"><img src="https://img.shields.io/twitter/follow/sailorworks?logo=twitter&style=for-the-badge" alt="sailorworks" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sailorworks" target="blank"><img src="https://img.shields.io/twitter/follow/sailorworks?logo=twitter&style=for-the-badge" alt="sailorworks" /></a> </p> --->
 
 - 🔭 I’m currently working on [technical writing](https://sailorworks.hashnode.dev/)
 
