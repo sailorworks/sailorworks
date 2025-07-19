@@ -1,21 +1,15 @@
-<p align="center">
-  <img src="https://github.com/sailorworks/sailorworks/blob/main/assets/output/animation.gif" width="4000" height="400"alt="Hi, I'm Sahil  👋 technical writing 🚀 I ❤️ open source ">
-</p>
+
 <h3 align="center">sailing in the world of computer science</h3>
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailorworks&label=Profile%20views&color=0e75b6&style=flat" alt="sailorworks" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sailorworks" target="blank"><img src="https://img.shields.io/twitter/follow/sailorworks?logo=twitter&style=for-the-badge" alt="sailorworks" /></a> </p> --->
 
-- 🔭 I’m currently working on [technical writing](https://sailorworks.hashnode.dev/)
-
-- 🌱 I’m currently learning **computer science course**
-
-- 👯 I’m looking to collaborate on **research opportunities**
+- 🔭 I like coming up with ideas and buidling stuff, vibecoding.
 
 - 📝 I regularly write articles on [hashnode](https://sailorworks.hashnode.dev/)
 
-- 💬 Ask me about **open source, technical documentation**
+- 💬 Ask me about **open source, AI agents, web3 **
 
 - 📫 How to reach me **https://www.linkedin.com/in/sahil-prasad-43523a231/**
 
